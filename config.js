@@ -3,7 +3,7 @@ const siteConfig = {
     pageTitle: "Liy",
     logoText: "Liy",
     welcomeMessage: "莉莉一家",
-    // quote: "Endless desire can never bring satisfaction, but only distress.",
+    quote: "没有什么好说的",
     quoteAuthor: "— Bearst",
     navLinks: [
         // { text: "博客", url: "https://likey.us.kg/" },
