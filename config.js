@@ -4,7 +4,7 @@ const siteConfig = {
     logoText: "Liy",
     welcomeMessage: "莉莉一家",
     quote: "没有什么好说的",
-    quoteAuthor: "— Bearst",
+    quoteAuthor: "Bearst",
     navLinks: [
         // { text: "博客", url: "https://likey.us.kg/" },
         // { text: "资源站", url: "https://v0v.us.kg/" },
